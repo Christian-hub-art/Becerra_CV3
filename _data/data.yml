@@ -61,28 +61,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ingenieria de Sistemas
+        university: Pontifica Universidad Javeriana
+        time: 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          La carrera de Ingeniería de Sistemas en la Javeriana forma profesionales capaces de modelar, diseñar y gestionar soluciones innovadoras basadas en tecnologías de información y comunicaciones, promoviendo el uso ético y eficiente de los datos para impulsar la transformación digital del país. Con una duración de ocho semestres, el programa ofrece profundización en áreas como inteligencia artificial, ciencia de datos, computación gráfica, arquitectura de software y seguridad digital, respaldado por laboratorios de vanguardia.
+      - degree: Economia
+        university: Pontifica Universidad Javeriana
+        time: 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          La carrera de Economía en la Pontificia Universidad Javeriana ofrece una formación sólida, ética y con compromiso social, que combina análisis riguroso con oportunidades de internacionalización a través de convenios y dobles titulaciones; sus egresados cuentan con alta inserción laboral, especialmente tras la práctica profesional. El Departamento de Economía se destaca por su investigación en política económica y social, con grupos consolidados y proyectos innovadores como Género y Economía y ECGESA.
 
 experiences:
     title: Experiences
